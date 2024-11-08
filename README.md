@@ -1,5 +1,5 @@
 # redis-nadwy
-Hello ini adalah percobaan membuat redis
+Ikuti langkah langkah dibawah ini untuk membuat docker compose
 
 ## Create compose
 ```
@@ -68,3 +68,6 @@ You need to enter the following data and leave other things blank
 Click on **Add Redis Database** and then click on the Card where the name given in the above step appears.
 
 You will be taken to the Redis dashboard. You can see all the data related to Redis in that dashboard.
+
+
+### Happy Ngoprek guys
