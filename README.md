@@ -55,7 +55,7 @@ If you want you can start the services in background mode using
 docker-compose -f redis-docker-compose.yml up -d
 ```
 ## Access the Redis Graphical User Interface
-- ou can access the RedisInsight using **http://192.168.0.10:8001**
+- ou can access the RedisInsight using **http://localhost:8001** or **http://0.0.0.0:8001**
 - You need to accept their privacy settings
 - Then click on Add Redis Database and select **Add Database**
 
